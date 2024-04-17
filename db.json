@@ -1,108 +1,29 @@
 {
+    "stats": [
+      {
+          "id": 123,
+            "name" : "Ram Kumar",
+            "Hid" : 1
 
-  "products":[{
-     "id": 1,
-     "productName": "IPhone 14",
-     "price": 999,
-     "productImage": "https://m.media-amazon.com/images/I/81dT7CUY6GL._AC_CR0%2C0%2C0%2C0_SX480_SY360_.jpg",
-     "productImageFirst": "https://m.media-amazon.com/images/I/51wKeZuX6rL._SL1500_.jpg",
-     "productImageSecond": "https://m.media-amazon.com/images/I/712CBkmhLhL._SL1500_.jpg",
-     "productImageThird": "https://m.media-amazon.com/images/I/61f4dTush1L._SL1500_.jpg",
-     "productImageFourth": "https://m.media-amazon.com/images/I/81BnjSLm2oL._SL1500_.jpg",
-     "size": "6.1 inch",
-     "display": "1080p OLED",
-     "battery": "3000mah"
-  },
-  {
-     "id": 2,
-     "productName": "Macbook Pro 2022 (M1)",
-     "price": 1999,
-     "productImage": "https://images.unsplash.com/photo-1651489041505-e40d2d9e0979?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-     "productImageFirst": "https://m.media-amazon.com/images/I/81xW62KXNhL._SX679_.jpg",
-     "productImageSecond": "https://m.media-amazon.com/images/I/7105Rld2JtL._SL1500_.jpg",
-     "productImageThird": "https://m.media-amazon.com/images/I/81y6J5drVcL._SL1500_.jpg",
-     "productImageFourth": "https://m.media-amazon.com/images/I/71jc1Ja-mSL._SL1500_.jpg",
-     "size": "6.1 inch",
-     "display": "1080p OLED",
-     "battery": "3000mah"
-  },
-  {
-     "id": 3,
-     "productName": "Cannon M50 Camera",
-     "price": 699,
-     "productImage": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-     "productImageFirst": "https://m.media-amazon.com/images/I/81xW62KXNhL._SX679_.jpg",
-     "productImageSecond": "https://m.media-amazon.com/images/I/7105Rld2JtL._SL1500_.jpg",
-     "productImageThird": "https://m.media-amazon.com/images/I/81y6J5drVcL._SL1500_.jpg",
-     "productImageFourth": "https://m.media-amazon.com/images/I/71jc1Ja-mSL._SL1500_.jpg",
-     "size": "6.1 inch",
-     "display": "1080p OLED",
-     "battery": "3000mah"
-  },
-  {
-     "id": 4,
-     "productName": "WLS Van Gogh Denim Jacket",
-     "price": 228,
-     "productImage": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-     "productImageFirst": "https://m.media-amazon.com/images/I/81xW62KXNhL._SX679_.jpg",
-     "productImageSecond": "https://m.media-amazon.com/images/I/7105Rld2JtL._SL1500_.jpg",
-     "productImageThird": "https://m.media-amazon.com/images/I/81y6J5drVcL._SL1500_.jpg",
-     "productImageFourth": "https://m.media-amazon.com/images/I/71jc1Ja-mSL._SL1500_.jpg",
-     "size": "6.1 inch",
-     "display": "1080p OLED",
-     "battery": "3000mah"
-  },
-  {
-     "id": 5,
-     "productName": "LED Light Strips",
-     "price": 19.99,
-     "productImage": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-     "productImageFirst": "https://m.media-amazon.com/images/I/81xW62KXNhL._SX679_.jpg",
-     "productImageSecond": "https://m.media-amazon.com/images/I/7105Rld2JtL._SL1500_.jpg",
-     "productImageThird": "https://m.media-amazon.com/images/I/81y6J5drVcL._SL1500_.jpg",
-     "productImageFourth": "https://m.media-amazon.com/images/I/71jc1Ja-mSL._SL1500_.jpg",
-     "size": "6.1 inch",
-     "display": "1080p OLED",
-     "battery": "3000mah"
-  },
-  {
-     "id": 6,
-     "productName": "SPECTRUM LS TEE",
-     "price": 68,
-     "productImage": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-     "productImageFirst": "https://m.media-amazon.com/images/I/81xW62KXNhL._SX679_.jpg",
-     "productImageSecond": "https://m.media-amazon.com/images/I/7105Rld2JtL._SL1500_.jpg",
-     "productImageThird": "https://m.media-amazon.com/images/I/81y6J5drVcL._SL1500_.jpg",
-     "productImageFourth": "https://m.media-amazon.com/images/I/71jc1Ja-mSL._SL1500_.jpg",
-     "size": "6.1 inch",
-     "display": "1080p OLED",
-     "battery": "3000mah"
-  },
-  {
-     "id": 7,
-     "productName": "AUTO SERVICE SHIRT by GOLF WANG",
-     "price": 120,
-     "productImage": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-     "productImageFirst": "https://m.media-amazon.com/images/I/81xW62KXNhL._SX679_.jpg",
-     "productImageSecond": "https://m.media-amazon.com/images/I/7105Rld2JtL._SL1500_.jpg",
-     "productImageThird": "https://m.media-amazon.com/images/I/81y6J5drVcL._SL1500_.jpg",
-     "productImageFourth": "https://m.media-amazon.com/images/I/71jc1Ja-mSL._SL1500_.jpg",
-     "size": "6.1 inch",
-     "display": "1080p OLED",
-     "battery": "3000mah"
-  },
-  {
-     "id": 8,
-     "productName": "DON'T TRIP UNSTRUCTURED HAT",
-     "price": 40,
-     "productImage": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?q=80&w=2865&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-     "productImageFirst": "https://m.media-amazon.com/images/I/81xW62KXNhL._SX679_.jpg",
-     "productImageSecond": "https://m.media-amazon.com/images/I/7105Rld2JtL._SL1500_.jpg",
-     "productImageThird": "https://m.media-amazon.com/images/I/81y6J5drVcL._SL1500_.jpg",
-     "productImageFourth": "https://m.media-amazon.com/images/I/71jc1Ja-mSL._SL1500_.jpg",
-     "size": "6.1 inch",
-     "display": "1080p OLED",
-     "battery": "3000mah"
+       },
+       {
+        "id": 124,
+          "name" : "Ram Kumar",
+          "Hid" : 0
+
+     },
+     {
+        "id": 125,
+          "name" : "Ram Kumar",
+          "Hid" : 0
+
+     },
+     {
+        "id": 126,
+          "name" : "Ram Kumar",
+          "Hid" : 1
+
+     }
+      
+    ]
   }
-]
-}
