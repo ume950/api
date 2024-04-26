@@ -1,9 +1,5 @@
 {
-    "stats": [
-        {
   "total": 100,
   "healthy": 70,
   "unhealthy": 30
-}
-    ]
   }
