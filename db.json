@@ -1,20 +1,11 @@
 {
-  "empId": "EMP001",
   "firstName": "John",
-  "middleName": "Doe",
-  "lastName": "Smith",
   "dob": "1980-05-25",
-  "gender": "Male",
-  "phoneNumber": "1234567890",
-  "email": "john@example.com",
   "hospitalAddress": "123 Hospital Street, City, Country",
   "taluka": {
     "name": "Taluka Name"
   },
   "specialisation": {
     "name": "Specialization Name"
-  },
-  "languageKnown1": "English",
-  "languageKnown2": "Spanish",
-  "languageKnown3": "French"
+  }
 }
