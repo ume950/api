@@ -1,162 +1,20 @@
-[
-    {
-        "phoneNumber": "8762556080",
-        "email": "anarghyagupta@gmail.com",
-        "role": "Doctor",
-        "empId": "DCd50cfe",
-        "firstName": "Anarghya",
-        "middleName": "H",
-        "lastName": "Gupta",
-        "homeAddress": "House No. 346, Sector 23, Sunflower Colony",
-        "hospitalAddress": "Asian Hospital",
-        "nearestRailwayStation": "Basai Dhankot (bdxt) Railway Station, Sector 9B",
-        "gender": "Female",
-        "specialisation": {
-            "id": 22,
-            "name": "Infectious Disease Specialist",
-            "description": "One who diagnoses and treats infectious diseases"
-        },
-        "taluka": {
-            "id": 10,
-            "name": "Kiraoli",
-            "district": {
-                "id": 2,
-                "name": "Agra"
-            }
-        },
-        "dob": "1980-12-24",
-        "bloodGroup": "B+",
-        "aadharNumber": "987654321007",
-        "languageKnown1": "Hindi",
-        "languageKnown2": null,
-        "languageKnown3": null
-    },
-    {
-        "phoneNumber": "9650644225",
-        "email": "ShrutiHasan@gmail.com",
-        "role": "Doctor",
-        "empId": "DC6a6f79",
-        "firstName": "Shruti",
-        "middleName": "S",
-        "lastName": "Hasan",
-        "homeAddress": "House No. 346, Sector 23, Sunflower Colony",
-        "hospitalAddress": "Asian Hospital",
-        "nearestRailwayStation": "Basai Dhankot (bdxt) Railway Station, Sector 9B",
-        "gender": "Male",
-        "specialisation": {
-            "id": 22,
-            "name": "Infectious Disease Specialist",
-            "description": "One who diagnoses and treats infectious diseases"
-        },
-        "taluka": {
-            "id": 6,
-            "name": "Kheragarh",
-            "district": {
-                "id": 2,
-                "name": "Agra"
-            }
-        },
-        "dob": "1980-12-24",
-        "bloodGroup": "B+",
-        "aadharNumber": "987654321014",
-        "languageKnown1": "Haryanvi",
-        "languageKnown2": null,
-        "languageKnown3": null
-    },
-    {
-        "phoneNumber": "9650644324",
-        "email": "maheshmehta@gmail.com",
-        "role": "Doctor",
-        "empId": "DCb10e4e",
-        "firstName": "Mahesh",
-        "middleName": "Malhotra",
-        "lastName": "Mehta",
-        "homeAddress": "MIG -5, opposite Anand Nath Shiv Mandir, Colony, Patna, Bihar 800020, India",
-        "hospitalAddress": "Rd Number 2, above Bank Of India, East Patel Nagar, Patna, Bihar 800023, India",
-        "nearestRailwayStation": "Adarsh Colony",
-        "gender": "Male",
-        "specialisation": {
-            "id": 22,
-            "name": "Infectious Disease Specialist",
-            "description": "One who diagnoses and treats infectious diseases"
-        },
-        "taluka": {
-            "id": 4,
-            "name": "Etmadpur",
-            "district": {
-                "id": 2,
-                "name": "Agra"
-            }
-        },
-        "dob": "1988-04-06",
-        "bloodGroup": "A-",
-        "aadharNumber": "987654321020",
-        "languageKnown1": "English",
-        "languageKnown2": "Hindi",
-        "languageKnown3": ""
-    },
-    {
-        "phoneNumber": "9650644329",
-        "email": "aditimehta@gmail.com",
-        "role": "Doctor",
-        "empId": "DCcb523f",
-        "firstName": "Aditi",
-        "middleName": "A",
-        "lastName": "Mehta",
-        "homeAddress": "House No. 351, Sector 22, Lily Apartments",
-        "hospitalAddress": "QRG Hospital",
-        "nearestRailwayStation": "Basai Dhankot (bdxt) Railway Station, Sector 9B",
-        "gender": "Female",
-        "specialisation": {
-            "id": 22,
-            "name": "Infectious Disease Specialist",
-            "description": "One who diagnoses and treats infectious diseases"
-        },
-        "taluka": {
-            "id": 6,
-            "name": "Kheragarh",
-            "district": {
-                "id": 2,
-                "name": "Agra"
-            }
-        },
-        "dob": "1980-12-24",
-        "bloodGroup": "B+",
-        "aadharNumber": "987654321024",
-        "languageKnown1": "Hindi",
-        "languageKnown2": "English",
-        "languageKnown3": null
-    },
-    {
-        "phoneNumber": "9650644315",
-        "email": "viratgill@gmail.com",
-        "role": "Doctor",
-        "empId": "DCc64981",
-        "firstName": "Virat",
-        "middleName": "E",
-        "lastName": "Gill",
-        "homeAddress": "House No. 355, Sector 22, Lily Apartments",
-        "hospitalAddress": "QRG Hospital",
-        "nearestRailwayStation": "Basai Dhankot (bdxt) Railway Station, Sector 9B",
-        "gender": "Male",
-        "specialisation": {
-            "id": 22,
-            "name": "Infectious Disease Specialist",
-            "description": "One who diagnoses and treats infectious diseases"
-        },
-        "taluka": {
-            "id": 6,
-            "name": "Kheragarh",
-            "district": {
-                "id": 2,
-                "name": "Agra"
-            }
-        },
-        "dob": "1980-12-24",
-        "bloodGroup": "B+",
-        "aadharNumber": "987654321028",
-        "languageKnown1": "Hindi",
-        "languageKnown2": "English",
-        "languageKnown3": null
-    }
-]
+{
+  "empId": "EMP001",
+  "firstName": "John",
+  "middleName": "Doe",
+  "lastName": "Smith",
+  "dob": "1980-05-25",
+  "gender": "Male",
+  "phoneNumber": "1234567890",
+  "email": "john@example.com",
+  "hospitalAddress": "123 Hospital Street, City, Country",
+  "taluka": {
+    "name": "Taluka Name"
+  },
+  "specialisation": {
+    "name": "Specialization Name"
+  },
+  "languageKnown1": "English",
+  "languageKnown2": "Spanish",
+  "languageKnown3": "French"
+}
