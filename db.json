@@ -1,28 +1,22 @@
 {
     "stats": [
         {
+    "ID" : "1",
     "firstName": "John",
     "dob": "1980-05-25",
-    "hospitalAddress": "123 Hospital Street, City, Country",
-    "taluka": {
-      "talukaId": "2"
-    }
+    "hospitalAddress": "123 Hospital Street, City, Country"
   },
   {
+    "ID" : "2",
     "firstName": "Alice",
     "dob": "1975-08-15",
     "hospitalAddress": "456 Clinic Road, Town, Country",
-    "taluka": {
-      "talukaId": "1"
-    }
   },
   {
+    "ID" : "3",
     "firstName": "Michael",
     "dob": "1990-12-10",
     "hospitalAddress": "789 Medical Center Avenue, City, Country",
-    "taluka": {
-      "talukaId": "3"
-    }
   }
     ]
 }
