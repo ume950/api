@@ -3,9 +3,6 @@
   "dob": "1980-05-25",
   "hospitalAddress": "123 Hospital Street, City, Country",
   "taluka": {
-    "name": "Taluka Name"
-  },
-  "specialisation": {
-    "name": "Specialization Name"
+    "talukaId ": "2"
   }
 }
